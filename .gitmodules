@@ -1,0 +1,9 @@
+[submodule "MS-2SMR"]
+	path = MS-2SMR
+	url = https://github.com/AndiL04/MS-2SMR
+[submodule "MS-PRGenes"]
+	path = MS-PRGenes
+	url = https://github.com/AndiL04/MS-PRGenes
+[submodule "DrugRepositioning_Cogena"]
+	path = DrugRepositioning_Cogena
+	url = https://github.com/astrika/DrugRepositioning_Cogena
