@@ -1,6 +1,6 @@
 # Prioritization of risk genes in multi sclerosis by a refined Bayesian framework followed by tissue-specificity and cell type feature assessment
 Source codes of three major parts are provided:
-  1. Refined iRIGS for MS risk gene prioritization
+  1. Refined iRIGS for MS risk gene prioritization (MS-PRGenes)
   2. Two-sample Mendelian randomization (2SMR) analyses
   3. Drug repositioning using Cogena 
 
